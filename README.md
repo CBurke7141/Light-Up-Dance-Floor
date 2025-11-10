@@ -13,6 +13,7 @@ A DDR-inspired rhythm game built with Python, Pygame, and OpenCV. Play using you
 ---
 
 ## 📂 Repository Structure
+```
 Light-Up-Dance-Floor/
 ├── assets/              # Game graphics and UI elements
 ├── songs/               # Music files for gameplay
@@ -21,7 +22,7 @@ Light-Up-Dance-Floor/
 ├── settings.py          # Resolution and configuration
 ├── song_selection.py    # Song selection logic
 └── README.md            # Project documentation
-
+```
 ---
 
 ## 🚀 Installation & Setup
