@@ -28,7 +28,7 @@ Light-Up-Dance-Floor/
 ## 🚀 Installation & Setup
 ### 1. Clone the Repository
 ```shell
-git clone https://github.com/<your-username>/Light-Up-Dance-Floor.gitcd Light-Up-Dance-FloorShow more lines
+git clone https://github.com/<your-username>/Light-Up-Dance-Floor.gitcd Light-Up-Dance-FloorShow
 cd Light-Up-Dance-Floor
 ```
 
@@ -37,7 +37,7 @@ cd Light-Up-Dance-Floor
 ### 2. Install Dependencies
 Make sure you have Python 3.x installed, then run:
 ```shell
-pip install pygame opencv-pythonShow more lines
+pip install pygame opencv-pythonShow
 ```
 
 ### 3. Organize Files
@@ -46,7 +46,7 @@ If you downloaded the Python files individually, ensure the assets/ and songs/ f
 ## ▶️ How to Run
 Start the game with:
 ```shell
-python game.pyShow more lines
+python main.py
 ```
 ## 🎮 Controls
 
