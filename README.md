@@ -3,7 +3,7 @@ A DDR-inspired rhythm game built with Python, Pygame, and OpenCV. Play using you
 
 ---
 
-##✨ Features
+## ✨ Features
 🎮 Arrow-key gameplay similar to DDR
 🖥️ Multiple resolution support for different screen sizes
 🎵 Song selection menu for custom tracks
@@ -12,7 +12,7 @@ A DDR-inspired rhythm game built with Python, Pygame, and OpenCV. Play using you
 
 ---
 
-##📂 Repository Structure
+## 📂 Repository Structure
 Light-Up-Dance-Floor/
 ├── assets/              # Game graphics and UI elements
 ├── songs/               # Music files for gameplay
@@ -24,7 +24,7 @@ Light-Up-Dance-Floor/
 
 ---
 
-##🚀 Installation & Setup
+## 🚀 Installation & Setup
 ### 1. Clone the Repository
 ```shell
 git clone https://github.com/<your-username>/Light-Up-Dance-Floor.gitcd Light-Up-Dance-FloorShow more lines
